@@ -1,0 +1,9 @@
+{
+  "name": "assitan-kone-portfolio",
+  "type": "static",
+  "static": {
+    "public": "docs/.vuepress/dist"
+  },
+  "alias": "assitan-kone-portfolio",
+  "files": ["docs/.vuepress/dist"]
+}
