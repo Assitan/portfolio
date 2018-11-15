@@ -1,4 +1,4 @@
-__Développeuse JavaScript__, à la recherche de __challenges techniques__, j'aime travailler sur des __algorithmes complexes__ mais je m'intéresse aussi aux __composants UI__. La __documentation__ est importante pour moi et nécessaire.
+__Développeuse JavaScript__ à la recherche de __challenges techniques__, j’aime travailler sur des __algorithmes complexes__ mais également sur __les composants UI__. La __documentation__ est importante pour moi.
 
 Je travaille actuellement avec __VueJS__ et __Nuxt__.
 
