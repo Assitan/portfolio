@@ -1,4 +1,8 @@
 {
+  "name": "assitan-kone-portfolio",
+  "version": "1.0.0",
+  "description": "Assitan Koné - Portfolio",
+  "author": "Assitan Koné <assitan.kone@gmail.com>",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
