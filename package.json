@@ -5,8 +5,7 @@
   "author": "Assitan Koné <assitan.kone@gmail.com>",
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
-    "docs:deploy": "npm run docs:build && now --local-config docs.now.json && now alias --local-config docs.now.json"
+    "docs:build": "vuepress build docs"
   },
   "devDependencies": {
     "vuepress": "^0.10.2"
