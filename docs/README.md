@@ -7,3 +7,10 @@ ____
 - [Github](https://github.com/Assitan)
 - [Linkedin](https://www.linkedin.com/in/assitank)
 - <a href="assitan-kone.pdf" target="_blank">CV</a>
+
+____
+
+Mes articles Medium :
+
+- [Create a simple i18n doc with VuePress](https://medium.com/@assitan/create-a-simple-i18n-doc-with-vuepress-abf55a8eecd0)
+- [Netlify, an ideal deployment tool for a Front-end developer](https://medium.com/@assitan/netlify-ideal-deployment-tool-for-a-front-end-developer-46220d3bbd86)
