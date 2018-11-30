@@ -14,3 +14,4 @@ Mes articles Medium :
 
 - [Create a simple i18n doc with VuePress](https://medium.com/@assitan/create-a-simple-i18n-doc-with-vuepress-abf55a8eecd0)
 - [Netlify, an ideal deployment tool for a Front-end developer](https://medium.com/@assitan/netlify-ideal-deployment-tool-for-a-front-end-developer-46220d3bbd86)
+- [3 tips to challenge yourself as a Web Developer](https://medium.com/@assitan/3-tips-to-challenge-yourself-as-a-web-developer-bebef98e9154)
