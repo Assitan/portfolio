@@ -1,6 +1,6 @@
 __JavaScript developer__ looking for __technical challenges__, I like working on __complex algorithms__ and I am also interested in __UI components__. __Documentation__ is important to me.
 
-I am currently working with __VueJS__ and __Nuxt__.
+I am currently working with __React__ and __React Native__.
 
 ____
 
