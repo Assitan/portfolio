@@ -17,6 +17,7 @@ module.exports = {
       description: 'Assitan Koné - JavaScript Developer',
     },
   },
+  palette: path.resolve(__dirname, 'palette.styl'),
   serviceWorker: true,
   evergreen: true,
   themeConfig: {
