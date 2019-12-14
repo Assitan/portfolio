@@ -1,6 +1,6 @@
 __Développeuse JavaScript__ à la recherche de __challenges techniques__, j’aime travailler sur des __algorithmes complexes__ mais également sur __les composants UI__. La __documentation__ est importante pour moi.
 
-Je travaille actuellement avec __VueJS__ et __Nuxt__.
+Je travaille actuellement avec __React__ et __React Native__.
 
 ____
 
